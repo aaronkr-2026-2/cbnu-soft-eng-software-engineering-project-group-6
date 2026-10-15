@@ -91,5 +91,3 @@ habit-builder/
 │
 └── static/
     └── style.css
-
-```
